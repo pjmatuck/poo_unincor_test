@@ -14,7 +14,8 @@ class Player {
     pontosDeVida = ptsDeVida;
     posicaoX = posInicialX;
     posicaoY = posInicialY;
-    
+    this.forca = forca;
+    arma = novaArma;
   }
 
   void mover(float posX, float posY){
