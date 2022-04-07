@@ -1,5 +1,6 @@
 class Main {
   public static void main(String[] args) {
+    
     /*
     * 1. Instanciar um Player
     * 2. Instanciar arma
